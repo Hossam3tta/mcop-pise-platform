@@ -1,0 +1,37 @@
+{
+  "run_time": "2026-04-15 06:56:12 AM",
+  "workload": "Steady State",
+  "hours": 24,
+  "metrics": {
+    "timestamp": "2026-04-15T10:56:12.109317",
+    "cpu": 94.96,
+    "memory": 35.31,
+    "network_latency": 90.61,
+    "cost_per_hour": 2.46,
+    "instances": 4
+  },
+  "analysis": {
+    "score": 5,
+    "risk": "medium",
+    "optimization_target": "performance"
+  },
+  "prediction": {
+    "predicted_cpu": 78.41,
+    "predicted_state": "stable"
+  },
+  "decision": {
+    "action": "maintain",
+    "reason": "System is operating within acceptable thresholds",
+    "priority": "low"
+  },
+  "health_score": 56.2,
+  "issues_detected": 2,
+  "monthly_savings": 245.0,
+  "current_cost": 15.0,
+  "optimized_cost": 14.55,
+  "peak_load": 55.0,
+  "avg_stress": 27.5,
+  "thermal_stress": 31.6,
+  "breach_windows": 0,
+  "risk_level": "LOW"
+}

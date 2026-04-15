@@ -1,0 +1,7 @@
+[
+  {
+    "action": "optimize_network",
+    "reason": "High risk combined with elevated latency",
+    "priority": "high"
+  }
+]
