@@ -35,7 +35,7 @@ The system enables monitoring, forecasting, and optimization across multi-cloud 
 ## 📸 Platform Preview
 
 <p align="center">
-  <img src="Dashboard 1.png" width="48%" />
+  <img src="Dahboard 1.png" width="48%" />
   <img src="Dashboard 2.png" width="48%" />
 </p>
 
