@@ -35,7 +35,8 @@ The system enables monitoring, forecasting, and optimization across multi-cloud 
 ## 📸 Platform Preview
 
 <p align="center">
-  <img src="mcop-pise-dashboard-preview.png" width="1000"/>
+  <img src="Dashboard 1.png" width="48%" />
+  <img src="Dashboard 2.png" width="48%" />
 </p>
 
 ---
@@ -43,7 +44,8 @@ The system enables monitoring, forecasting, and optimization across multi-cloud 
 ## 🧭 System Architecture (NIW Exhibit)
 
 <p align="center">
-  <img src="architecture_niw.png" width="1000"/>
+  <img src="Dashboard 3.png" width="48%" />
+  <img src="Dashboard 4.png" width="48%" />
 </p>
 
 ---
