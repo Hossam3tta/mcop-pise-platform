@@ -1,4 +1,4 @@
-# 🚀 MCOP + PISE Platform  
+#  MCOP + PISE Platform  
 ### AI-Orchestrated Multi-Cloud Optimization with a Physics-Informed Simulation Engine
 
 ---
@@ -7,10 +7,10 @@
 
 The *MCOP + PISE Platform* addresses critical challenges in modern cloud infrastructure:
 
-- ⚡ Improving efficiency of large-scale distributed systems  
-- 💰 Reducing operational cloud costs  
-- 🔐 Enhancing infrastructure resilience and risk prediction  
-- 📊 Enabling AI-driven decision automation  
+-  Improving efficiency of large-scale distributed systems  
+-  Reducing operational cloud costs  
+-  Enhancing infrastructure resilience and risk prediction  
+-  Enabling AI-driven decision automation  
 
 This work supports U.S. priorities in:
 
@@ -21,18 +21,18 @@ This work supports U.S. priorities in:
 
 ---
 
-## 🌐 Overview
+##  Overview
 
 MCOP + PISE is an intelligent decision-support platform combining:
 
-- 🧠 *MCOP (AI-Orchestrated Multi-Cloud Optimization)*  
-- ⚙️ *PISE (Physics-Informed Simulation Engine)*  
+-  *MCOP (AI-Orchestrated Multi-Cloud Optimization)*  
+-  *PISE (Physics-Informed Simulation Engine)*  
 
 The system enables monitoring, forecasting, and optimization across multi-cloud environments.
 
 ---
 
-## 📸 Platform Preview
+##  Platform Preview
 
 <p align="center">
   <img src="Dahboard 1.png" width="48%" />
@@ -41,7 +41,7 @@ The system enables monitoring, forecasting, and optimization across multi-cloud 
 
 ---
 
-## 🧭 System Architecture (NIW Exhibit)
+##  System Architecture (NIW Exhibit)
 
 <p align="center">
   <img src="Dashboard 3.png" width="48%" />
@@ -50,21 +50,21 @@ The system enables monitoring, forecasting, and optimization across multi-cloud 
 
 ---
 
-## ⚡ Key Capabilities
+##  Key Capabilities
 
-- 🌍 Multi-cloud monitoring (AWS, Azure, GCP, OCI)  
-- 🤖 AI-driven optimization recommendations  
-- 🔮 Predictive workload & stress modeling  
-- 📉 Cost optimization insights  
-- 📊 Infrastructure health scoring  
-- 📈 Interactive dashboard (Plotly + Streamlit)  
-- 📁 Report generation  
+-  Multi-cloud monitoring (AWS, Azure, GCP, OCI)  
+-  AI-driven optimization recommendations  
+-  Predictive workload & stress modeling  
+-  Cost optimization insights  
+-  Infrastructure health scoring  
+-  Interactive dashboard (Plotly + Streamlit)  
+-  Report generation  
 
 ---
 
-## 🧠 Core Components
+##  Core Components
 
-### 🔹 MCOP — AI-Orchestrated Optimization Engine
+###  MCOP — AI-Orchestrated Optimization Engine
 
 - Collects infrastructure metrics  
 - Applies intelligent decision logic  
@@ -74,7 +74,7 @@ The system enables monitoring, forecasting, and optimization across multi-cloud 
 
 ---
 
-### 🔹 PISE — Physics-Informed Simulation Engine
+###  PISE — Physics-Informed Simulation Engine
 
 - Models system behavior under load  
 - Predicts stress and degradation  
@@ -83,7 +83,7 @@ The system enables monitoring, forecasting, and optimization across multi-cloud 
 
 ---
 
-## 🏗️ System Design Philosophy
+##  System Design Philosophy
 
 This platform introduces a hybrid approach combining:
 
@@ -97,7 +97,7 @@ Resulting in:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python  
 - Streamlit  
@@ -109,7 +109,7 @@ Resulting in:
 
 ---
 
-## ▶️ Run Locally
+## ▶ Run Locally
 
 ```bash
 git clone https://github.com/Hossam3tta/mcop-pise-platform.git
@@ -119,7 +119,7 @@ python -m venv .venv
 pip install -r requirements.txt
 python -m streamlit run dashboard/app.py
 
-💡 Use Cases
+ Use Cases
 	•	Multi-cloud infrastructure optimization
 	•	Cloud cost reduction (FinOps)
 	•	Predictive infrastructure risk management
@@ -128,7 +128,7 @@ python -m streamlit run dashboard/app.py
 
 ⸻
 
-📈 Potential Impact
+ Potential Impact
 
 The platform contributes to:
 	•	Reduced cloud operational costs
@@ -143,7 +143,7 @@ These capabilities are critical for:
 
 ⸻
 
-🔮 Future Development
+ Future Development
 	•	Integration with real cloud APIs
 	•	Real-time monitoring pipelines
 	•	AI anomaly detection models
@@ -152,7 +152,7 @@ These capabilities are critical for:
 
 ⸻
 
-👨‍💻 Author
+ Author
 
 Hossam Aboata
 Cloud Engineer | Multi-Cloud Architect | AI-Driven Infrastructure Optimization
